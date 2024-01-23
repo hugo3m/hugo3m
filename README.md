@@ -4,7 +4,7 @@ My name is Hugo. I am a software engineer from France 🇫🇷 living in Norway 
 
 - 🔭 I’m currently working on networking related softwares 🛜
 - 🌱 I’m currently learning about video games development and rendering engines 🎮
-- 👟 I enjoy basketball 🏀 snowboard 🏂 biking 🚴‍♂️ video games 👾
+- 👟 I enjoy basketball 🏀 snowboard 🏂 biking 🚴‍♂️ video games 👾 board games 🎲
 
 ➡️ Check out [my first video game](https://playcanv.as/p/5b4da0ee/) I coded within few weeks to discover [PlayCanvas](https://playcanvas.com/) 👾
 
