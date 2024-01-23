@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Hugo. I am a software engineer.
+
+- 🔭 I’m currently working on networking related softwares 🛜
+- 🌱 I’m currently learning about video games development and rendering engines 🎮
+- 👟 I enjoy basketball 🏀 snowboard 🏂 biking 🚴‍♂️ video games 👾
+
 <!--
 **hugo3m/hugo3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
