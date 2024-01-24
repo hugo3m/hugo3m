@@ -9,7 +9,7 @@ My name is Hugo. I am a software engineer from France 🇫🇷 living in Norway 
 #### Activities
 
 ➡ 🏅 Acquired beginner Unreal Engine 5 [certificate](https://www.udemy.com/certificate/UC-be675e27-28d7-4d1a-b2b3-e75422305195/)
-- 👾 Check out [my first video game](https://playcanv.as/p/5b4da0ee/) I coded within few weeks to discover [PlayCanvas](https://playcanvas.com/)
+➡ 👾 Check out [my first video game](https://playcanv.as/p/5b4da0ee/) I coded within few weeks to discover [PlayCanvas](https://playcanvas.com/)
 
 
 
