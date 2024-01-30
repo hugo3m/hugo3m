@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Hugo. I am a software engineer from France 🇫🇷 living in Norway 🇳🇴.
+I am a software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
 - 🔭 I’m currently working on networking related softwares 🛜
 - 🌱 I’m currently learning about video games development and rendering engines 🎮
