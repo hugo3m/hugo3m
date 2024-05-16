@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I am a software engineer from France 🇫🇷 living in Norway 🇳🇴.
+Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
-- 🌱 I’m currently learning about video games development and rendering engines 🎮
-- 👟 I enjoy basketball 🏀 snowboard 🏂 biking 🚴‍♂️ video games 👾 board games 🎲
+- 🌱 Learning about video games development and rendering engines 🎮
 
 #### Activities
 
