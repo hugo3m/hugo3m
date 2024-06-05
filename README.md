@@ -9,6 +9,7 @@ Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 ##### 2024
 
 ➡ 🏅 Acquired Unreal Engine 5 Multiplayer [certificate](https://www.udemy.com/certificate/UC-149b4fe8-3287-4303-8f4e-363a83c6c4dc/)
+
 ➡ 🕹️ Participation to [Global Game Jam Hamar 2024](https://hamar.gamejam.no/)
 
 ##### 2023
