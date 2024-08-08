@@ -8,6 +8,8 @@ If you want to have an idea about what I have been up to, you can have a check a
 
 ##### 2024
 
+➡ 📐 Small 3D project made with BabylonJS available [here](https://hugo3m.github.io/drag/)
+
 ➡ 🏅 Acquired Unreal Engine 5 Multiplayer [certificate](https://www.udemy.com/certificate/UC-149b4fe8-3287-4303-8f4e-363a83c6c4dc/)
 
 ➡ 🕹️ Participation to [Global Game Jam Hamar 2024](https://hamar.gamejam.no/)
