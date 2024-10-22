@@ -8,7 +8,7 @@ If you want to know what I have been up to, you can have a check at a morelikely
 
 ##### 2024
 
-➡ 📐 [Raytracer](https://raytracer-hugo3ms-projects.vercel.app/)
+➡ 🧰 [Raytracer](https://raytracer-hugo3ms-projects.vercel.app/) home-made in [Rust web assembly](https://rustwasm.github.io/docs/book/), inspired from [Computer graphics from scratch, Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 ➡ 📐 [Small 3D project](https://hugo3m.github.io/drag/) made with [BabylonJS](https://www.babylonjs.com/)
 
