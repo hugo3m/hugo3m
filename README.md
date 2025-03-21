@@ -4,9 +4,9 @@ Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
 If you want to know what I have been up to, you can have a check at a morelikely **non**-exhaustive list on my [wiki](https://hugo3m.github.io/wiki/).
 
-#### Activities
+### Activities
 
-##### 2024
+#### 2024
 
 🧰 **[Home-made raytracer](https://raytracer-hugo3ms-projects.vercel.app/)** in [Rust web assembly](https://rustwasm.github.io/docs/book/), inspired from [Computer graphics from scratch, Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
@@ -16,11 +16,11 @@ If you want to know what I have been up to, you can have a check at a morelikely
 
 🕹️ Participation to [Global Game Jam Hamar 2024](https://hamar.gamejam.no/)
 
-##### 2023
+#### 2023
 
 🏅 Acquired beginner [Unreal Engine 5 certificate](https://www.udemy.com/certificate/UC-be675e27-28d7-4d1a-b2b3-e75422305195/)
 
-##### 2022
+#### 2022
 
 👾 **[My first video game](https://playcanv.as/p/5b4da0ee/)** I coded within few weeks to discover [PlayCanvas](https://playcanvas.com/)
 
