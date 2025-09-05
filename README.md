@@ -8,11 +8,11 @@ If you want to know what I have been up to, you can have a check at a morelikely
 
 #### 2025
 
-🔬 **[Home-made rasterizer](https://rasterizer-hugo3ms-projects.vercel.app/)** in [C++ web assembly](https://emscripten.org/), inspired from [Computer graphics from scratch, Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+🔬 **[Homemade rasterizer](https://rasterizer-hugo3ms-projects.vercel.app/)** in [C++ web assembly](https://emscripten.org/), inspired from [Computer graphics from scratch, Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 #### 2024
 
-🧰 **[Home-made raytracer](https://raytracer-hugo3ms-projects.vercel.app/)** in [Rust web assembly](https://rustwasm.github.io/docs/book/), inspired from [Computer graphics from scratch, Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
+🧰 **[Homemade raytracer](https://raytracer-hugo3ms-projects.vercel.app/)** in [Rust web assembly](https://rustwasm.github.io/docs/book/), inspired from [Computer graphics from scratch, Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 
 📐 **[Dragging objects 3D project](https://hugo3m.github.io/drag/)** made with [BabylonJS](https://www.babylonjs.com/)
 
