@@ -2,8 +2,6 @@
 
 Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
-If you want to know what I have been up to, you can have a check at a morelikely **non**-exhaustive list on my [wiki](https://hugo3m.github.io/wiki/).
-
 ### Activities
 
 #### 2025
@@ -28,6 +26,7 @@ If you want to know what I have been up to, you can have a check at a morelikely
 
 👾 **[My first video game](https://playcanv.as/p/5b4da0ee/)** I coded within few weeks to discover [PlayCanvas](https://playcanvas.com/)
 
+#### If you want to know what I have been up to, you can have a check at a morelikely **non**-exhaustive list on my [wiki](https://hugo3m.github.io/wiki/).
 
 
 
