@@ -6,9 +6,9 @@ Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
 #### 2026
 
-[![Watch the video](https://img.youtube.com/vi/TNVMXG1OkeA/hqdefault.jpg)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/TNVMXG1OkeA))
+🎮 **3D game engine and endless runner game implementation** using C++ / OpenGL / GLFW
 
-🎮 **[3D game engine and endless runner game implementation](https://youtu.be/TNVMXG1OkeA)** using C++ / OpenGL / GLFW
+[![Watch the video](https://img.youtube.com/vi/TNVMXG1OkeA/hqdefault.jpg)]([https://youtu.be/vt5fpE0bzSY](https://youtu.be/TNVMXG1OkeA))
 
 #### 2025
 
