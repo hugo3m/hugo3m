@@ -6,6 +6,8 @@ Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
 #### 2026
 
+[![Watch on YouTube](https://your-app.vercel.app/badge?id=dQw4w9WgXcQ)](https://youtube.com/watch?v=dQw4w9WgXcQ)
+
 🎮 **[3D game engine and endless runner game implementation](https://youtu.be/TNVMXG1OkeA)** using C++ / OpenGL / GLFW
 
 #### 2025
