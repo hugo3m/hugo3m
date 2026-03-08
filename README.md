@@ -4,6 +4,10 @@ Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
 ### Activities
 
+#### 2026
+
+🎮 **[3D game engine and endless runner game implementation]**(https://youtu.be/TNVMXG1OkeA) using C++ / OpenGL / GLFW
+
 #### 2025
 
 🔬 **[Homemade rasterizer](https://rasterizer-hugo3ms-projects.vercel.app/)** in [C++ web assembly](https://emscripten.org/), inspired from [Computer graphics from scratch, Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
