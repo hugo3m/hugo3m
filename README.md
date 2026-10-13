@@ -10,7 +10,7 @@ Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
 **[Releases available here](https://github.com/hugo3m/huGLame/releases/tag/V1)** with instructions on how to run at the bottom of the **[README.md](https://github.com/hugo3m/huGLame/blob/main/README.md)**.
 
-[![Watch the video](https://img.youtube.com/vi/9IWPGkQHM04/hqdefault.jpg)](https://youtu.be/9IWPGkQHM04)
+[![Watch the video](https://img.youtube.com/vi/Fr1O7UElqfE/hqdefault.jpg)](https://youtu.be/Fr1O7UElqfE)
 
 #### 2025
 
