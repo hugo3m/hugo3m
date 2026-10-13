@@ -8,7 +8,7 @@ Software engineer from France 🇫🇷 living in Norway 🇳🇴.
 
 🎮 **3D game engine and endless runner game implementation** using C++ / OpenGL / GLFW
 
-**[Build available here](https://github.com/hugo3m/huGLame/releases/tag/V1)**
+**[Releases available here](https://github.com/hugo3m/huGLame/releases/tag/V1)**
 
 [![Watch the video](https://img.youtube.com/vi/9IWPGkQHM04/hqdefault.jpg)](https://youtu.be/9IWPGkQHM04)
 
